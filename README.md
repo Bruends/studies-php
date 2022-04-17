@@ -1,3 +1,4 @@
 # studies-php
 
-- [file upload](file_upload/upload.php)
+- [PDO](PDO/pdo.php)
+- [File Upload](file_upload/upload.php)
