@@ -1,4 +1,4 @@
-# studies php
+# studies PHP
 
 # PDO
 - [PDO Basics](PDO/pdo.php)
